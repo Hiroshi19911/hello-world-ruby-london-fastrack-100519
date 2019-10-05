@@ -1,3 +1,3 @@
+$ ruby
 puts "Hello World!"
-ruby 
-
+ruby hello_world.rb 
